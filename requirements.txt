@@ -23,7 +23,7 @@ langchain[docarray]
 datasets
 sentencepiece
 matplotlib
-google.generativeai
+google-generativeai
 anthropic
 scikit-learn
 unstructured
@@ -40,3 +40,5 @@ bitsandbytes
 psutil
 setuptools
 speedtest-cli
+sentence_transformers
+feedparser
